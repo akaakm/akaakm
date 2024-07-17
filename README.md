@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @akaakm
-- 👀 I’m interested in learning Python/IaC to supplement my CCNA and AWS Certifications
-- 🌱 I’m currently learning Python and Terraform!
-- 💞️ I’m looking to collaborate on where Python can take me in my career
+- 👀 I’m currently broadening my expertise of AWS Cloud Services with hands-on learning of Docker, Java, and Linux SysAdmin tools!
+- 💞️ I’m looking to collaborate on transitioning into a AWS Cloud Engineer career!
 - 📫 How to reach me anthony.k.mckim@gmail
 
 <!---
